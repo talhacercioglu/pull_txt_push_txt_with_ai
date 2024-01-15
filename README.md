@@ -27,4 +27,5 @@ predicted_price.txt: File containing the predicted real estate price.
 The get_info function in main.py retrieves information from dictionaries based on user inputs.
 The tahmin_yap function loads the trained model and makes predictions using the input features.
 Feel free to explore and modify the code to suit your needs. If you encounter any issues or have suggestions for improvement, please create an issue or submit a pull request.
-Happy coding!
+
+#### Happy coding!
